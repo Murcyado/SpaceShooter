@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Space Invaders Resources/BlueAlien.png</file>
+        <file>Space Invaders Resources/BlueBullet.png</file>
+        <file>Space Invaders Resources/BlueCannon.png</file>
+        <file>Space Invaders Resources/gameOver.png</file>
+        <file>Space Invaders Resources/invader.png</file>
+        <file>Space Invaders Resources/mainLogo.png</file>
+        <file>Space Invaders Resources/over.png</file>
+        <file>Space Invaders Resources/PinkAlien.png</file>
+        <file>Space Invaders Resources/PinkBullet.png</file>
+        <file>Space Invaders Resources/PinkCannon.png</file>
+        <file>Space Invaders Resources/RedAlien.png</file>
+        <file>Space Invaders Resources/RedBullet.png</file>
+        <file>Space Invaders Resources/RedCannon.png</file>
+        <file>Space Invaders Resources/SpaceInvadersBg.jpg</file>
+    </qresource>
+</RCC>
